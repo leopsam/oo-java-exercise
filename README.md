@@ -1,18 +1,29 @@
-## Getting Started
+# Exercícios de Java - Projeto de Orientação a Objetos
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este repositório contém uma série de exercícios resolvidos em Java, elaborados como parte do processo de aprendizado e prática em programação orientada a objetos. Cada exercício está organizado em um pacote separado, seguindo uma estrutura que facilita a compreensão e revisão do código.
 
-## Folder Structure
+## Estrutura do Projeto
 
-The workspace contains two folders by default, where:
+O projeto está estruturado da seguinte forma:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- **src/main/java**: Contém o código-fonte dos exercícios.
+- **src/test/java**: Contém testes unitários para os exercícios.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Como Usar
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Para usar este projeto, siga as etapas abaixo:
 
-## Dependency Management
+1. Clone este repositório em sua máquina local.
+git clone https://github.com/leopsam/oo-java-exercise.git
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+3. Abra o projeto em sua IDE Java preferida.
+4. Navegue até os pacotes correspondentes aos exercícios que deseja revisar.
+5. Execute os exercícios e verifique os resultados.
+
+## Contribuições
+
+Contribuições são bem-vindas! Sinta-se à vontade para propor melhorias ou adicionar novos exercícios através de pull requests.
+
+## Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
