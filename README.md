@@ -13,6 +13,7 @@ O projeto está estruturado da seguinte forma:
 Para usar este projeto, siga as etapas abaixo:
 
 1. Clone este repositório em sua máquina local.
+   
 git clone https://github.com/leopsam/oo-java-exercise.git
 
 3. Abra o projeto em sua IDE Java preferida.
