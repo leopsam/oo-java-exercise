@@ -6,8 +6,7 @@ Este repositório contém uma série de exercícios resolvidos em Java, elaborad
 
 O projeto está estruturado da seguinte forma:
 
-- **src/main/java**: Contém o código-fonte dos exercícios.
-- **src/test/java**: Contém testes unitários para os exercícios.
+- **src**: Contém o código-fonte dos exercícios.
 
 ## Como Usar
 
