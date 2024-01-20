@@ -1,11 +1,11 @@
 public class MultiplicaAi {
     public static void main(String[] args) throws Exception {
-        int x = 5;
+        int x = 7;
 
         System.out.println("Tabela de multiplicação por " + x);
       
             for(int i = 1; i < 11; i++){
-                int calc = 5;   
+                int calc = x;   
                 System.out.println(x + " x " + i + " = " + (calc * i));
             }
              

@@ -3,7 +3,7 @@ import java.util.List;
 
 public class Fibonacci {
     public static void main(String[] args) throws Exception {
-        int x = 4;        
+        int x = 20;        
         List<Integer> sequenciaFibonacci = new ArrayList<>();
         
         if(x == 0) System.out.println("x é igual a 0");

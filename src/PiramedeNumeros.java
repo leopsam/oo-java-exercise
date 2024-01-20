@@ -1,6 +1,6 @@
 public class PiramedeNumeros {
     public static void main(String[] args) throws Exception {
-        int x = 5;
+        int x = 9;
       
         for(int i = 1; i < x+1; i++){
             System.out.println();
